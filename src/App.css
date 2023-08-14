@@ -88,6 +88,11 @@ body {
   cursor: pointer;
   /*width: 100%;*/
   text-align: left;
+  transition: background-color 0.3s;
+}
+
+.class-buttons button.selected {
+  background-color: #add8e6; /* Change the background color for selected class */
 }
 
 .selected {
@@ -102,6 +107,7 @@ body {
   cursor: pointer;
   text-align: center;
   font-size: 16px;
+  transition: background-color 0.3s;
 }
 
 .messages {
