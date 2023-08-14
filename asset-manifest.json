@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/course-scheduling-chatbot/static/css/main.e423e6d8.css",
+    "main.js": "/course-scheduling-chatbot/static/js/main.4acd7589.js",
+    "static/js/787.a104257d.chunk.js": "/course-scheduling-chatbot/static/js/787.a104257d.chunk.js",
+    "index.html": "/course-scheduling-chatbot/index.html",
+    "main.e423e6d8.css.map": "/course-scheduling-chatbot/static/css/main.e423e6d8.css.map",
+    "main.4acd7589.js.map": "/course-scheduling-chatbot/static/js/main.4acd7589.js.map",
+    "787.a104257d.chunk.js.map": "/course-scheduling-chatbot/static/js/787.a104257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e423e6d8.css",
+    "static/js/main.4acd7589.js"
+  ]
+}
